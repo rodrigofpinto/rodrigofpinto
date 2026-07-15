@@ -1,14 +1,30 @@
-## Hi! I'm Rodrigo 🖐️
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=800&size=75&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=120&lines=RODRIGO+PINTO" alt="RODRIGO PINTO">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=38&pause=1000&color=A3A3A3&center=true&vCenter=true&width=800&height=60&lines=crafting+digital+experiences" alt="crafting digital experiences">
+</div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mark.fleek/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodrigof-pinto/)
+<br><br><br>
 
-## Technologies
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&height=60&lines=Technologies" alt="Technologies">
+  <br><br>
+  <img src="https://img.shields.io/badge/VUE.JS-111111?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/LARAVEL-111111?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/NODE.JS-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-111111?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SCSS-111111?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
+</div>
 
-<div style="display: inline-block;">
-  <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img align="center" alt="scss" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-</div><br/>
+<br><br><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&height=60&lines=Get+in+touch" alt="Get in touch">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Let's+create+something+extraordinary." alt="Let's create something extraordinary">
+  <br><br>
+  <p><code>PINTORODRIGO2007@GMAIL.COM</code></p>
+  <br>
+  <a href="https://www.linkedin.com/in/rodrigof-pinto/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/mark.fleek/"><img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
