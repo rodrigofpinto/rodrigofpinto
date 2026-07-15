@@ -1,11 +1,12 @@
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=48&pause=1000&color=FFFFFF&width=800&height=100&lines=Crafting+digital+experiences" alt="Crafting digital experiences">
+  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=59&pause=1000&color=FFFFFF&width=800&height=100&lines=Crafting+digital+experiences" alt="Crafting digital experiences">
 </div>
 
-<br><br>
+<hr>
+<br>
 
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=45&pause=1000&color=FFFFFF&width=400&height=60&lines=Technologies" alt="Technologies">
+  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=45&pause=1000&color=A3A3A3&width=400&height=60&lines=Technologies" alt="Technologies">
   <br>
   <img src="https://img.shields.io/badge/VUE.JS-111111?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/LARAVEL-111111?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
@@ -14,10 +15,12 @@
   <img src="https://img.shields.io/badge/SCSS-111111?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
 </div>
 
-<br><br><br>
+<br>
+<hr>
+<br>
 
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=45&pause=1000&color=FFFFFF&width=400&height=60&lines=Get+in+touch" alt="Get in touch">
+  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=45&pause=1000&color=A3A3A3&width=400&height=60&lines=Get+in+touch" alt="Get in touch">
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=500&size=30&pause=1000&color=FFFFFF&width=800&height=60&lines=Let's+create+something+extraordinary." alt="Let's create something extraordinary">
   <br>
