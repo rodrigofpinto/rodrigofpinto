@@ -1,14 +1,12 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=800&size=75&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=120&lines=RODRIGO+PINTO" alt="RODRIGO PINTO">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=38&pause=1000&color=A3A3A3&center=true&vCenter=true&width=800&height=60&lines=crafting+digital+experiences" alt="crafting digital experiences">
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=48&pause=1000&color=FFFFFF&width=800&height=100&lines=Crafting+digital+experiences" alt="Crafting digital experiences">
 </div>
 
-<br><br><br>
+<br><br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&height=60&lines=Technologies" alt="Technologies">
-  <br><br>
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=45&pause=1000&color=FFFFFF&width=400&height=60&lines=Technologies" alt="Technologies">
+  <br>
   <img src="https://img.shields.io/badge/VUE.JS-111111?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/LARAVEL-111111?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/NODE.JS-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -18,11 +16,11 @@
 
 <br><br><br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&height=60&lines=Get+in+touch" alt="Get in touch">
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=45&pause=1000&color=FFFFFF&width=400&height=60&lines=Get+in+touch" alt="Get in touch">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Let's+create+something+extraordinary." alt="Let's create something extraordinary">
-  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=500&size=30&pause=1000&color=FFFFFF&width=800&height=60&lines=Let's+create+something+extraordinary." alt="Let's create something extraordinary">
+  <br>
   <p><code>PINTORODRIGO2007@GMAIL.COM</code></p>
   <br>
   <a href="https://www.linkedin.com/in/rodrigof-pinto/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
