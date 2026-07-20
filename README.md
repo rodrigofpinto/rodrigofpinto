@@ -1,5 +1,5 @@
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=59&pause=1000&color=FFFFFF&width=800&height=100&lines=Crafting+digital+experiences" alt="Crafting digital experiences">
+  <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=59&pause=1000&color=A3A3A3&width=800&height=100&lines=Crafting+digital+experiences" alt="Crafting digital experiences">
 </div>
 
 <hr>
