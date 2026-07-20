@@ -22,7 +22,7 @@
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=45&pause=1000&color=A3A3A3&width=400&height=60&lines=Get+in+touch" alt="Get in touch">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=500&size=30&pause=1000&color=FFFFFF&width=800&height=60&lines=Let's+create+something+extraordinary." alt="Let's create something extraordinary">
+  <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=500&size=24&pause=1000&color=A3A3A3&width=800&height=60&lines=Let's+create+something+extraordinary." alt="Let's create something extraordinary">
   <br>
   <p><code>PINTORODRIGO2007@GMAIL.COM</code></p>
   <br>
